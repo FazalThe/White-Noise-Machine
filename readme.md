@@ -44,6 +44,7 @@ A very simple white noise generator using an ESP32 (XIAO ESP32-C3) and a PAM8406
 | C1 | Capacitor | 0.1 µF |
 | RV1 | Potentiometer | 10 kΩ (Volume) |
 | SPK | Speaker | 4–8 Ω, 0.5–3 W |
-| J1 | Connector | 2-pin speaker connector |
+| J1 | Connector | 2-pin jst connector |
 
 ---
+
