@@ -36,15 +36,17 @@ A very simple white noise generator using an ESP32 (XIAO ESP32-C3) and a PAM8406
 
 ## BOM
 
-| Ref | Component | Value / Part |
+| Qty | Component | Value / Part |
 |---|---|---|
-| U1 | MCU | XIAO ESP32-C3 SMD |
-| U2 | Audio Amp | PAM8406D (SOIC-16) |
-| R1 | Resistor | 10 kΩ |
-| C1 | Capacitor | 0.1 µF |
-| RV1 | Potentiometer | 10 kΩ (Volume) |
-| SPK | Speaker | 4–8 Ω, 0.5–3 W |
-| J1 | Connector | 2-pin jst connector |
+| 1 | MCU | XIAO ESP32-C3 SMD |
+| 1 | Audio Amp | PAM8406D (SOIC-16) |
+| 1 | Resistor | 10 kΩ |
+| 1 | Capacitor | 0.1 µF |
+| 1 | Potentiometer | 10 kΩ (Volume) |
+| 1 | Speaker | 4–8 Ω, 0.5–3 W |
+| 1 | Connector | 2-pin jst connector |
+| 4 | Screw | M3x10mm |
 
 ---
+
 
